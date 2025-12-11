@@ -1,0 +1,72 @@
+[2025-12-08 14:16:32] Recebido formulário: {"property_id":"5245","name":"teste teste ","phone":"12312131213","email":"suporte8@imonov.com.br","observation":"Ol\u00e1, estou interessado neste im\u00f3vel paraVendade Ref.: 5245, e gostaria de mais informa\u00e7\u00f5es.","user":"fiveh"}
+[2025-12-08 14:16:32] Token localizado com sucesso para usuário fiveh
+[2025-12-08 14:16:32] Payload enviado: {
+    "name": "teste teste ",
+    "classification": "high",
+    "interestedIn": "buy",
+    "source": "Formulário do Site",
+    "phones": [
+        {
+            "phoneNumber": "12312131213",
+            "phoneType": "comercial"
+        }
+    ],
+    "emails": [
+        "suporte8@imonov.com.br"
+    ],
+    "observation": "Olá, estou interessado neste imóvel paraVendade Ref.: 5245, e gostaria de mais informações.",
+    "observationLead": "Olá, estou interessado neste imóvel paraVendade Ref.: 5245, e gostaria de mais informações.",
+    "user": {
+        "id": 1,
+        "username": "envio",
+        "email": "envio@email.com",
+        "name": "envio"
+    },
+    "contacts": [
+        {
+            "propertyId": "5245",
+            "observation": "Olá, estou interessado neste imóvel paraVendade Ref.: 5245, e gostaria de mais informações."
+        }
+    ]
+}
+[2025-12-08 14:16:33] HTTP CODE: 200
+[2025-12-08 14:16:33] RESPOSTA API: {"id":21832,"name":"teste teste ","classification":null,"interestedIn":null,"source":null,"emails":["suporte8@imonov.com.br"],"observation":"Olá, estou interessado neste imóvel paraVendade Ref.: 5245, e gostaria de mais informações.","observationLead":"Olá, estou interessado neste imóvel paraVendade Ref.: 5245, e gostaria de mais informações.","user":{"id":67,"username":"FLAVIO 02","email":"flavio@fivehouseimoveis.com.br","phoneNumber":"11982097936","name":"FLAVIO MASSARI"},"contacts":null,"phones":null}
+[2025-12-08 14:16:33] Lead enviado com sucesso!
+[2025-12-08 18:25:34] Recebido formulário: {"property_id":"6627","name":"JosephMah","phone":"89168653757","email":"kulabukhova-0ryg5@myrambler.ru","observation":"\u6709\u8da3\u7684 \u5728\u7ebf\u5bfc\u89c8! \u771f\u4e0d\u9519! <a href=https:\/\/iqvel.com\/zh-Hans\/a\/%E6%B3%95%E5%9B%BD\/%E9%A9%AC%","user":"fiveh","submit":"Enviar"}
+[2025-12-08 18:25:34] Token localizado com sucesso para usuário fiveh
+[2025-12-08 18:25:34] Payload enviado: {
+    "name": "JosephMah",
+    "classification": "high",
+    "interestedIn": "buy",
+    "source": "Formulário do Site",
+    "phones": [
+        {
+            "phoneNumber": "89168653757",
+            "phoneType": "comercial"
+        }
+    ],
+    "emails": [
+        "kulabukhova-0ryg5@myrambler.ru"
+    ],
+    "observation": "有趣的 在线导览! 真不错! <a href=https:\/\/iqvel.com\/zh-Hans\/a\/%E6%B3%95%E5%9B%BD\/%E9%A9%AC%",
+    "observationLead": "有趣的 在线导览! 真不错! <a href=https:\/\/iqvel.com\/zh-Hans\/a\/%E6%B3%95%E5%9B%BD\/%E9%A9%AC%",
+    "user": {
+        "id": 1,
+        "username": "envio",
+        "email": "envio@email.com",
+        "name": "envio"
+    },
+    "contacts": [
+        {
+            "propertyId": "6627",
+            "observation": "有趣的 在线导览! 真不错! <a href=https:\/\/iqvel.com\/zh-Hans\/a\/%E6%B3%95%E5%9B%BD\/%E9%A9%AC%"
+        }
+    ]
+}
+[2025-12-08 18:25:35] HTTP CODE: 200
+[2025-12-08 18:25:35] RESPOSTA API: {"id":21837,"name":"JosephMah","classification":null,"interestedIn":null,"source":null,"emails":["kulabukhova-0ryg5@myrambler.ru"],"observation":"有趣的 在线导览! 真不错! <a href=https://iqvel.com/zh-Hans/a/%E6%B3%95%E5%9B%BD/%E9%A9%AC%","observationLead":"有趣的 在线导览! 真不错! <a href=https://iqvel.com/zh-Hans/a/%E6%B3%95%E5%9B%BD/%E9%A9%AC%","user":{"id":21,"username":"ON LINE FIVE","email":"fivehouse.online@gmail.com","phoneNumber":null,"name":"ON LINE FIVE HOUSE"},"contacts":null,"phones":null}
+[2025-12-08 18:25:35] Lead enviado com sucesso!
+[2025-12-10 05:14:52] Recebido formulário: []
+[2025-12-10 05:14:52] ERRO FATAL: Token não encontrado para o usuário: 
+[2025-12-10 18:10:32] Recebido formulário: []
+[2025-12-10 18:10:32] ERRO FATAL: Token não encontrado para o usuário: 
